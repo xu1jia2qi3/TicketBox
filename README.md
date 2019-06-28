@@ -1,2 +1,2 @@
 # TicketBox
-https://github.com/xu1jia2qi3
+https://xu1jia2qi3.github.io/TicketBox/
